@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/shorten-new-website/static/js/main.0c5f345b.chunk.js",
+    "main.js.map": "/shorten-new-website/static/js/main.0c5f345b.chunk.js.map",
+    "runtime-main.js": "/shorten-new-website/static/js/runtime-main.49ff7b17.js",
+    "runtime-main.js.map": "/shorten-new-website/static/js/runtime-main.49ff7b17.js.map",
+    "static/js/2.2f12d335.chunk.js": "/shorten-new-website/static/js/2.2f12d335.chunk.js",
+    "static/js/2.2f12d335.chunk.js.map": "/shorten-new-website/static/js/2.2f12d335.chunk.js.map",
+    "index.html": "/shorten-new-website/index.html",
+    "static/js/2.2f12d335.chunk.js.LICENSE.txt": "/shorten-new-website/static/js/2.2f12d335.chunk.js.LICENSE.txt",
+    "static/media/bg-boost-desktop.772154c9.svg": "/shorten-new-website/static/media/bg-boost-desktop.772154c9.svg",
+    "static/media/hamburger.51815719.svg": "/shorten-new-website/static/media/hamburger.51815719.svg",
+    "static/media/icon-brand-recognition.c349d3b6.svg": "/shorten-new-website/static/media/icon-brand-recognition.c349d3b6.svg",
+    "static/media/icon-detailed-records.265c8aea.svg": "/shorten-new-website/static/media/icon-detailed-records.265c8aea.svg",
+    "static/media/icon-facebook.8110ac95.svg": "/shorten-new-website/static/media/icon-facebook.8110ac95.svg",
+    "static/media/icon-fully-customizable.a1532a74.svg": "/shorten-new-website/static/media/icon-fully-customizable.a1532a74.svg",
+    "static/media/icon-instagram.abdc3f2e.svg": "/shorten-new-website/static/media/icon-instagram.abdc3f2e.svg",
+    "static/media/icon-pinterest.c7bf4c32.svg": "/shorten-new-website/static/media/icon-pinterest.c7bf4c32.svg",
+    "static/media/icon-twitter.fc944900.svg": "/shorten-new-website/static/media/icon-twitter.fc944900.svg",
+    "static/media/illustration-working.66cdf396.svg": "/shorten-new-website/static/media/illustration-working.66cdf396.svg",
+    "static/media/logo.2131d988.svg": "/shorten-new-website/static/media/logo.2131d988.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49ff7b17.js",
+    "static/js/2.2f12d335.chunk.js",
+    "static/js/main.0c5f345b.chunk.js"
+  ]
+}
